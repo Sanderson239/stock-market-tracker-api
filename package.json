@@ -31,7 +31,7 @@
     "humps": "^2.0.1",
     "karma-mocha-reporter": "^2.2.5",
     "knex": "^0.16.5",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "morgan": "^1.9.1",
     "node-fetch": "^2.6.0",
     "pg": "^7.11.0",
